@@ -1,0 +1,19 @@
+{
+  "name": "n8n-render",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "n8n start"
+  },
+  "dependencies": {
+    "n8n": "^2.3.6"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
