@@ -4,16 +4,21 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "n8n start"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "n8n": "^2.3.6"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allleb7dev/n8n-render.git"
   },
-  "engines": {
-    "node": ">=18"
-  }
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/allleb7dev/n8n-render/issues"
+  },
+  "homepage": "https://github.com/allleb7dev/n8n-render#readme",
+  "dependencies": {
+    "n8n": "^2.6.3"
+  }
 }
